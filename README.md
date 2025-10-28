@@ -26,7 +26,7 @@ A simple Python script to create a customizable countdown timer from any number,
 ---
 
 ## 💡 Example Output
-``Enter the number to start the countdown from: 5
+```Enter the number to start the countdown from: 5
 Enter the countdown speed in seconds (e.g., 1 for normal, 0.5 for fast): 1
 
 --- Countdown Begins ---
@@ -35,7 +35,7 @@ Enter the countdown speed in seconds (e.g., 1 for normal, 0.5 for fast): 1
 3
 2
 1
-Countdown Complete!``
+Countdown Complete!```
 
 ---
 
