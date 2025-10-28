@@ -35,7 +35,7 @@ Enter the countdown speed in seconds (e.g., 1 for normal, 0.5 for fast): 1
 3
 2
 1
-Countdown Complete!```
+Countdown Complete!
 
 ---
 
